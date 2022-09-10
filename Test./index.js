@@ -19,11 +19,11 @@ async function delaywritting(){
                         var message = figlet.textSync(text, {
                                 horizontalLayout: 'default',
                                 verticalLayout: 'default',
-                                width: 60,
+                                width: 80,
                                 whitespaceBreak: true
                          });
                         console.clear();
-                        console.log(gradient('cyan', 'pink') (message));
+                        console.log(gradient('red','orange') (message));
                 }
                 await sleep(1000);
                 text = "";
