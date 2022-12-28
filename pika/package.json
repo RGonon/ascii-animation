@@ -1,0 +1,16 @@
+{
+  "name": "ascii-pika",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": "./index.js",
+  "keywords": [],
+  "author": "natch",
+  "license": "isc",
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
+}

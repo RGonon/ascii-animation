@@ -1,0 +1,17 @@
+{
+  "name": "votaitest.",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "natch",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.2"
+  }
+}
